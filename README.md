@@ -1,0 +1,4 @@
+hive-examples
+=============
+
+HiveQL examples
