@@ -41,4 +41,4 @@ To see the schema:  column names and data types
     
 Linux CLI - pull down sample data
 
-        wget --output-document=ml-10m.zip   http://files.grouplens.org/papers/ml-10m.zip
+    wget --output-document=ml-10m.zip   http://files.grouplens.org/papers/ml-10m.zip
